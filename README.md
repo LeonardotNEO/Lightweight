@@ -1,3 +1,3 @@
 # Lightweight
 
-Excersising app
+Excersising app made using Flutter and Firebase
