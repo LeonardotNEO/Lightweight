@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Bench press",
+      "bodypart": {
+          "name": "Chest"
+      },
+      "measurementType": "kg",
+      "sets": null
+    },
+    {
+        "name": "Chest flyes",
+      "bodypart": {
+          "name": "Chest"
+      },
+      "measurementType": "kg",
+      "sets": null
+    },
+    {
+        "name": "Deadlift",
+      "bodypart": {
+          "name": "Back"
+      },
+      "measurementType": "kg",
+      "sets": null
+    },
+    {
+        "name": "Leg press",
+      "bodypart": {
+          "name": "Legs"
+      },
+      "measurementType": "kg",
+      "sets": null
+    },
+    {
+        "name": "Biceps curl",
+      "bodypart": {
+          "name": "Arms"
+      },
+      "measurementType": "kg",
+      "sets": null
+    }
+]

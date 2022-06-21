@@ -1,0 +1,235 @@
+[
+  {
+    "excersises": [
+      {
+        "name": "Bench press",
+        "bodypart": {
+          "name": "Chest"
+        },
+        "measurementType": "kg",
+        "sets": [
+          {
+            "repetitions": 8,
+            "weight": {
+              "load": 40.0,
+              "type": "kg",
+              "time": null
+            },
+            "finished": false
+          },
+          {
+            "repetitions": 8,
+            "weight": {
+              "load": 40.0,
+              "type": "kg",
+              "time": null
+            },
+            "finished": false
+          },
+          {
+            "repetitions": 8,
+            "weight": {
+              "load": 40.0,
+              "type": "kg",
+              "time": null
+            },
+            "finished": false
+          },
+          {
+            "repetitions": 8,
+            "weight": {
+              "load": 40.0,
+              "type": "kg",
+              "time": null
+            },
+            "finished": false
+          }
+        ]
+      },
+      {
+        "name": "Chest flyes",
+        "bodypart": {
+          "name": "Chest"
+        },
+        "measurementType": "kg",
+        "sets": [
+            {
+              "repetitions": 8,
+              "weight": {
+                "load": 40.0,
+                "type": "kg",
+                "time": null
+              },
+              "finished": false
+            },
+            {
+              "repetitions": 8,
+              "weight": {
+                "load": 40.0,
+                "type": "kg",
+                "time": null
+              },
+              "finished": false
+            },
+            {
+              "repetitions": 8,
+              "weight": {
+                "load": 40.0,
+                "type": "kg",
+                "time": null
+              },
+              "finished": false
+            },
+            {
+              "repetitions": 8,
+              "weight": {
+                "load": 40.0,
+                "type": "kg",
+                "time": null
+              },
+              "finished": false
+            }
+          ]
+      },
+      {
+        "name": "Deadlift",
+        "bodypart": {
+          "name": "Back"
+        },
+        "measurementType": "kg",
+        "sets": [
+            {
+              "repetitions": 8,
+              "weight": {
+                "load": 40.0,
+                "type": "kg",
+                "time": null
+              },
+              "finished": false
+            },
+            {
+              "repetitions": 8,
+              "weight": {
+                "load": 40.0,
+                "type": "kg",
+                "time": null
+              },
+              "finished": false
+            },
+            {
+              "repetitions": 8,
+              "weight": {
+                "load": 40.0,
+                "type": "kg",
+                "time": null
+              },
+              "finished": false
+            },
+            {
+              "repetitions": 8,
+              "weight": {
+                "load": 40.0,
+                "type": "kg",
+                "time": null
+              },
+              "finished": false
+            }
+          ]
+      },
+      {
+        "name": "Leg press",
+        "bodypart": {
+          "name": "Legs"
+        },
+        "measurementType": "kg",
+        "sets": [
+            {
+              "repetitions": 8,
+              "weight": {
+                "load": 40.0,
+                "type": "kg",
+                "time": null
+              },
+              "finished": false
+            },
+            {
+              "repetitions": 8,
+              "weight": {
+                "load": 40.0,
+                "type": "kg",
+                "time": null
+              },
+              "finished": false
+            },
+            {
+              "repetitions": 8,
+              "weight": {
+                "load": 40.0,
+                "type": "kg",
+                "time": null
+              },
+              "finished": false
+            },
+            {
+              "repetitions": 8,
+              "weight": {
+                "load": 40.0,
+                "type": "kg",
+                "time": null
+              },
+              "finished": false
+            }
+          ]
+      },
+      {
+        "name": "Biceps curl",
+        "bodypart": {
+          "name": "Arms"
+        },
+        "measurementType": "kg",
+        "sets": [
+            {
+              "repetitions": 8,
+              "weight": {
+                "load": 40.0,
+                "type": "kg",
+                "time": null
+              },
+              "finished": false
+            },
+            {
+              "repetitions": 8,
+              "weight": {
+                "load": 40.0,
+                "type": "kg",
+                "time": null
+              },
+              "finished": false
+            },
+            {
+              "repetitions": 8,
+              "weight": {
+                "load": 40.0,
+                "type": "kg",
+                "time": null
+              },
+              "finished": false
+            },
+            {
+              "repetitions": 8,
+              "weight": {
+                "load": 40.0,
+                "type": "kg",
+                "time": null
+              },
+              "finished": false
+            }
+          ]
+      }
+    ],
+    "packages": [],
+    "workoutName": "Full body",
+    "duration": "1:33:00.000500",
+    "dateFinished": "2021-08-10T12:30:10.0000001"
+  }
+]

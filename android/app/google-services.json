@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1003700186385",
+    "firebase_url": "https://flutter-lifting-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flutter-lifting-app",
+    "storage_bucket": "flutter-lifting-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003700186385:android:345fc8ad941ea4ee1bf0b0",
+        "android_client_info": {
+          "package_name": "com.leonardportfolio.lightweight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003700186385-rp5iaboiu72odsmr8ol7k7op1lpelm4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMTP8A7WaOx95LGDHXP1AUuezUBcWP6eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003700186385-rp5iaboiu72odsmr8ol7k7op1lpelm4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
